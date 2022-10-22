@@ -1,0 +1,13 @@
+body {
+    background: url(barneybackground.jpg) #ecabfa no-repeat center;
+    }
+.barneygif9000 img {
+       height: 99;
+       width: auto;
+                 }
+.barneygif9000 {
+display: block;
+position: absolute;
+bottom: 0;
+right: 0;
+              } 
